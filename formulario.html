@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css"
+    integrity="sha512-IgmDkwzs96t4SrChW29No3NXBIBv8baW490zk5aXvhCD8vuZM3yUSkbyTBcXohkySecyzIrUwiF/qV0cuPcL3Q=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"
+    integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="./styles/style.css">
+  <title>Game Store Form</title>
+</head>
+
+<body>
+
+  <nav class="navbar has-background-dark sticky" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="./img/controller.svg" width="60" alt="Logo">
+      </a>
+      <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <div class="buttons">
+          <a href="index.html" class="button is-light">
+            Inicio
+          </a>
+        </div>
+      </div>
+    </div>
+    </div>
+  </nav>
+
+  <form class="formulario">
+
+    <h1 class="title">Registro de Videojuegos</h1>
+
+    <div class="field">
+      <label class="label">Nombre</label>
+      <div class="control has-icons-left">
+        <input class="input is-primary" name="nombre" type="text" placeholder="Nombre del videojuego">
+        <span class="icon is-small is-left">
+          <i class="fas fa-compact-disc"></i>
+        </span>
+      </div>
+    </div>
+
+    <div class="field">
+      <label class="label">Precio</label>
+      <div class="control has-icons-left">
+        <input class="input is-primary" name="precio" type="text" placeholder="Precio del videojuego">
+        <span class="icon is-small is-left">
+          <i class="fas fa-dollar-sign"></i>
+        </span>
+      </div>
+    </div>
+
+    <div class="field">
+      <label class="label">Categoria</label>
+      <label class="checkbox">
+        <input type="checkbox" class="categoria" value="pc">
+        pc
+      </label>
+    </div>
+    <div class="field">
+      <label class="checkbox">
+        <input type="checkbox" class="categoria" value="xbox">
+        xbox
+      </label>
+    </div>
+    <div class="field">
+      <label class="checkbox">
+        <input type="checkbox" class="categoria" value="ps">
+        ps
+      </label>
+    </div>
+    <div class="field">
+      <label class="checkbox">
+        <input type="checkbox" class="categoria" value="nintendo">
+        nintendo
+      </label>
+    </div>
+
+    <div class="field">
+      <label class="label">Descripción</label>
+      <div class="control">
+        <textarea class="textarea is-primary" name="desc" placeholder="Descripción del videojuego"></textarea>
+      </div>
+    </div>
+
+    <div class="field is-grouped is-grouped-centered">
+      <p class="control">
+        <button class="button is-success">
+          Crear
+        </button>
+      </p>
+    </div>
+
+  </form>
+
+  <script src="./scripts/script.js"></script>
+
+</body>
+
+</html>
