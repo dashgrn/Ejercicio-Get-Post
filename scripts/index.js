@@ -9,7 +9,6 @@ const cardClkListener = document.getElementsByClassName('card is-clickable')
 const cardsContainer = document.getElementById('cardsContainer')
 const cardTemplate = document.getElementById('cardTemplate')
 
-
 const getGames = async () => {
     let res = await fetch('http://localhost:4000/games')
     let data = await res.json()

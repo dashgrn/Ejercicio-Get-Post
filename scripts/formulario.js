@@ -8,7 +8,7 @@ let $formulario = document.forms[0],
   objeto;
 
 const capturarDatos = () => {
-  $nombre = $formulario.nombre.value,
+  $nombre = $formulario.nombre.value,  
   $precio = $formulario.precio.value,
   $desc = $formulario.desc.value,
   $categoria = Array.from(document.querySelectorAll(".categoria"));  
