@@ -18,8 +18,7 @@ const getGames = async () => {
     return data
 }
 
-const showAll = async () => {
-    let games = await getGames()
+const showAll = async (games) => {
     console.log(games)
     games.forEach((game) => {
     //all games
@@ -52,12 +51,44 @@ const showAll = async () => {
       cardFragment.appendChild(div)
     })
     cardsContainer.appendChild(cardFragment)
-    console.log('all games creator went through')
   }
   
-document.addEventListener('DOMContentLoaded', showAll)
-
-all.addEventListener('click', () => {
-    cardsContainer.innerHTML = ''
-    showAll()
+document.addEventListener('DOMContentLoaded', async () => {
+    let games = await getGames()
+    cardsContainer.innerHTML= ''
+    showAll(games)
 })
+
+all.addEventListener('click', async () => {
+    let games = await getGames()
+    cardsContainer.innerHTML = ''
+    showAll(games)
+})
+
+pc.addEventListener('click', async () => {
+    let games = await getGames()
+    let filteredGames = games.filter(game => game.category[0] === 'pc')
+    cardsContainer.innerHTML = ''
+    showAll(filteredGames)
+})
+
+ps.addEventListener('click', async () => {
+    let games = await getGames()
+    let filteredGames = games.filter(game => game.category[0] === 'ps' || game.category[1] === 'ps' || game.category[2] === 'ps')
+    cardsContainer.innerHTML = ''
+    showAll(filteredGames)
+})
+
+xbox.addEventListener('click', async () => {
+    let games = await getGames()
+    let filteredGames = games.filter(game => game.category[0] === 'xbox' || game.category[1] === 'xbox')
+    cardsContainer.innerHTML = ''
+    showAll(filteredGames)
+})
+
+nSwitch.addEventListener('click', async () => {
+    let games = await getGames()
+    let filteredGames = games.filter(game => game.category[0] === 'nintendo')
+    cardsContainer.innerHTML = ''
+    showAll(filteredGames)
+    })
