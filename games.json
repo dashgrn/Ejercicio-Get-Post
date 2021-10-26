@@ -1,260 +1,354 @@
 {
-"games" : [
+  "games": [
     {
-        "title" : "MS. Flight Simulator",
-        "category" : ["pc", "xbox"],
-        "price" : 250000,
-        "img" : "",
-        "desc": "Microsoft Flight Simulator is the next generation of one of the most beloved simulation franchises. From light planes to wide-body jets, fly highly detailed and stunning aircraft in an incredibly realistic world.",
-        "id" : 0
+      "title": "MS. Flight Simulator",
+      "category": [
+        "pc",
+        "xbox"
+      ],
+      "price": 250000,
+      "img": "",
+      "desc": "Microsoft Flight Simulator is the next generation of one of the most beloved simulation franchises. From light planes to wide-body jets, fly highly detailed and stunning aircraft in an incredibly realistic world.",
+      "id": 0
     },
     {
-        "title" : "Far Cry 4",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 160000,
-        "img" : "",
-        "desc": "To fulfil his mother's dying wish, Ajay Ghale travels to Kyrat to scatter her ashes. Before he can accomplish this, though, he must end a civil war between the Golden Path and Mins forces.",
-        "id" : 1
+      "title": "Far Cry 4",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 160000,
+      "img": "",
+      "desc": "To fulfil his mother's dying wish, Ajay Ghale travels to Kyrat to scatter her ashes. Before he can accomplish this, though, he must end a civil war between the Golden Path and Mins forces.",
+      "id": 1
     },
     {
-        "title" : "Formula 1 2019",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 120000,
-        "img" : "",
-        "desc": "The eleventh installment in the franchise, and it features all twenty-two circuits, twenty drivers and ten teams present in the 2019 Formula 1 World Championship.",
-        "id" : 2
+      "title": "Formula 1 2019",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 120000,
+      "img": "",
+      "desc": "The eleventh installment in the franchise, and it features all twenty-two circuits, twenty drivers and ten teams present in the 2019 Formula 1 World Championship.",
+      "id": 2
     },
     {
-        "title" : "Elite Dangerous",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 90000,
-        "img" : "",
-        "desc": "Take control of your own starship in a cut-throat galaxy. Start with a small starship and a few credits, and do whatever it takes to get the skill, knowledge, wealth and power to stand among the ranks of the Elite. In the year 3300, across the vast expanse of an epic, full-scale recreation of our Milky Way, interstellar rivalries flare as galactic superpowers fight proxy wars. Some may know you as an ally; others will call you a pirate, a bounty hunter, a smuggler, an explorer, an assassin, a hero... Fly alone or with friends, fight for a cause or go it alone; your actions change the galaxy around you in an ever unfolding story",
-        "id" : 3
+      "title": "Elite Dangerous",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 90000,
+      "img": "",
+      "desc": "Take control of your own starship in a cut-throat galaxy. Start with a small starship and a few credits, and do whatever it takes to get the skill, knowledge, wealth and power to stand among the ranks of the Elite. In the year 3300, across the vast expanse of an epic, full-scale recreation of our Milky Way, interstellar rivalries flare as galactic superpowers fight proxy wars. Some may know you as an ally; others will call you a pirate, a bounty hunter, a smuggler, an explorer, an assassin, a hero... Fly alone or with friends, fight for a cause or go it alone; your actions change the galaxy around you in an ever unfolding story",
+      "id": 3
     },
     {
-        "title" : "Asseto Corsa",
-        "category" : ["pc", "xbox"],
-        "price" : 35000,
-        "img" : "",
-        "desc": "ssetto Corsa is a racing simulation that attempts to offer a realistic driving experience with a variety of road and race cars through detailed physics and tyre simulation on race tracks recreated through laser-scanning technology.",
-        "id" : 4
+      "title": "Asseto Corsa",
+      "category": [
+        "pc",
+        "xbox"
+      ],
+      "price": 35000,
+      "img": "",
+      "desc": "ssetto Corsa is a racing simulation that attempts to offer a realistic driving experience with a variety of road and race cars through detailed physics and tyre simulation on race tracks recreated through laser-scanning technology.",
+      "id": 4
     },
     {
-        "title" : "Age Of Empires 2",
-        "category" : ["pc"],
-        "price" : 40000,
-        "img" : "",
-        "desc": "Age of Empires II is a real-time strategy game that focuses on building towns, gathering resources, and creating armies to defeat opponents.",
-        "id" : 5
+      "title": "Age Of Empires 2",
+      "category": [
+        "pc"
+      ],
+      "price": 40000,
+      "img": "",
+      "desc": "Age of Empires II is a real-time strategy game that focuses on building towns, gathering resources, and creating armies to defeat opponents.",
+      "id": 5
     },
     {
-        "title" : "GTA 5",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 85000,
-        "img" : "",
-        "desc": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
-        "id" : 6
+      "title": "GTA 5",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 85000,
+      "img": "",
+      "desc": "Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
+      "id": 6
     },
     {
-        "title" : "Shadow of War",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 120000,
-        "img" : "",
-        "desc": "Middle-earth: Shadow of War is an action role-playing game set in an open world environment and played from a third-person perspective, like its predecessor.",
-        "id" : 7
+      "title": "Shadow of War",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 120000,
+      "img": "",
+      "desc": "Middle-earth: Shadow of War is an action role-playing game set in an open world environment and played from a third-person perspective, like its predecessor.",
+      "id": 7
     },
     {
-        "title" : "The Witcher 3",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 120000,
-        "img" : "",
-        "desc": "A monster hunter for hire embarks on an epic journey to find his former apprentice before The Wild Hunt can capture her and bring about the destruction of the world.",
-        "id" : 8
+      "title": "The Witcher 3",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 120000,
+      "img": "",
+      "desc": "A monster hunter for hire embarks on an epic journey to find his former apprentice before The Wild Hunt can capture her and bring about the destruction of the world.",
+      "id": 8
     },
     {
-        "title" : "Tomb Raider",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 150000,
-        "img" : "",
-        "desc": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
-        "id" : 9
+      "title": "Tomb Raider",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 150000,
+      "img": "",
+      "desc": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor. Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold.",
+      "id": 9
     },
     {
-        "title" : "Cyberpunk 2077",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
-        "id" : 10
+      "title": "Cyberpunk 2077",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification. You play as V, a mercenary outlaw going after a one-of-a-kind implant that is the key to immortality.",
+      "id": 10
     },
     {
-        "title" : "Death Stranding",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Death Stranding is an action game developed by Kojima Productions. The game is set in the United States following a cataclysmic event which caused destructive creatures to begin roaming the Earth.",
-        "id" : 11
+      "title": "Death Stranding",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Death Stranding is an action game developed by Kojima Productions. The game is set in the United States following a cataclysmic event which caused destructive creatures to begin roaming the Earth.",
+      "id": 11
     },
     {
-        "title" : "Red Dead Redemption 2",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Set in a fictional recreation of the American Old West in 1899, Red Dead Redemption 2 focuses on the life of Arthur Morgan and his position in the notorious Van der Linde gang. The game follows the gang's decline as they are pursued by lawmen, fellow gangs and Pinkerton agents.",
-        "id" : 12
+      "title": "Red Dead Redemption 2",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Set in a fictional recreation of the American Old West in 1899, Red Dead Redemption 2 focuses on the life of Arthur Morgan and his position in the notorious Van der Linde gang. The game follows the gang's decline as they are pursued by lawmen, fellow gangs and Pinkerton agents.",
+      "id": 12
     },
     {
-        "title" : "Skyrim",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 90000,
-        "img" : "",
-        "desc": "The Elder Scrolls V: Skyrim is an action role-playing game, playable from either a first or third-person perspective. The player may freely roam over the land of Skyrim—an open world environment consisting of wilderness expanses, dungeons, caves, cities, towns, fortresses, and villages.",
-        "id" : 13
+      "title": "Skyrim",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 90000,
+      "img": "",
+      "desc": "The Elder Scrolls V: Skyrim is an action role-playing game, playable from either a first or third-person perspective. The player may freely roam over the land of Skyrim—an open world environment consisting of wilderness expanses, dungeons, caves, cities, towns, fortresses, and villages.",
+      "id": 13
     },
     {
-        "title" : "No Man's Sky",
-        "category" : ["pc"],
-        "price" : 90000,
-        "img" : "",
-        "desc": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated galaxy.",
-        "id" : 14
+      "title": "No Man's Sky",
+      "category": [
+        "pc"
+      ],
+      "price": 90000,
+      "img": "",
+      "desc": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated galaxy.",
+      "id": 14
     },
     {
-        "title" : "Euro Truck Simulator 2",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 30000,
-        "img" : "",
-        "desc": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
-        "id" : 15
+      "title": "Euro Truck Simulator 2",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 30000,
+      "img": "",
+      "desc": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+      "id": 15
     },
     {
-        "title" : "Metro Redux",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 25000,
-        "img" : "",
-        "desc": "Metro Redux is a post-apocalyptic first-person shooter, and a two-part remake of Metro 2033 and Metro: Last Light for the PS4 and X-One consoles. It was developed by 4A Games and published by Deep Sliver. The enhanced versions of both games can be bought together as a bundle or separately.",
-        "id" : 16
+      "title": "Metro Redux",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 25000,
+      "img": "",
+      "desc": "Metro Redux is a post-apocalyptic first-person shooter, and a two-part remake of Metro 2033 and Metro: Last Light for the PS4 and X-One consoles. It was developed by 4A Games and published by Deep Sliver. The enhanced versions of both games can be bought together as a bundle or separately.",
+      "id": 16
     },
     {
-        "title" : "Transistor",
-        "category" : ["pc"],
-        "price" : 25000,
-        "img" : "",
-        "desc": "Transistor is a sci-fi themed action RPG that invites you to wield an extraordinary weapon of unknown origin as you fight through a stunning futuristic city.",
-        "id" : 17
+      "title": "Transistor",
+      "category": [
+        "pc"
+      ],
+      "price": 25000,
+      "img": "",
+      "desc": "Transistor is a sci-fi themed action RPG that invites you to wield an extraordinary weapon of unknown origin as you fight through a stunning futuristic city.",
+      "id": 17
     },
     {
-        "title" : "Star Citizen",
-        "category" : ["pc"],
-        "price" : 25000,
-        "img" : "",
-        "desc": "Star Citizen is an in-development multiplayer space trading and combat simulation game developed and published by Cloud Imperium Games for Microsoft Windows. A spiritual successor to 2003's Freelancer, Star Citizen is being led by director Chris Roberts.",
-        "id" : 18
+      "title": "Star Citizen",
+      "category": [
+        "pc"
+      ],
+      "price": 25000,
+      "img": "",
+      "desc": "Star Citizen is an in-development multiplayer space trading and combat simulation game developed and published by Cloud Imperium Games for Microsoft Windows. A spiritual successor to 2003's Freelancer, Star Citizen is being led by director Chris Roberts.",
+      "id": 18
     },
     {
-        "title" : "Diablo 3",
-        "category" : ["pc"],
-        "price" : 89000,
-        "img" : "",
-        "desc": "Diablo III is a hack-and-slash action role-playing game developed and published by Blizzard Entertainment as the third installment in the Diablo franchise.",
-        "id" : 19
+      "title": "Diablo 3",
+      "category": [
+        "pc"
+      ],
+      "price": 89000,
+      "img": "",
+      "desc": "Diablo III is a hack-and-slash action role-playing game developed and published by Blizzard Entertainment as the third installment in the Diablo franchise.",
+      "id": 19
     },
     {
-        "title" : "Zelda: Breath of the Wild",
-        "category" : ["nintendo"],
-        "price" : 160000,
-        "img" : "",
-        "desc": "Breath of the Wild is an action-adventure game set in an open world where players are tasked with exploring the kingdom of Hyrule while controlling Link",
-        "id" : 20
+      "title": "Zelda: Breath of the Wild",
+      "category": [
+        "nintendo"
+      ],
+      "price": 160000,
+      "img": "",
+      "desc": "Breath of the Wild is an action-adventure game set in an open world where players are tasked with exploring the kingdom of Hyrule while controlling Link",
+      "id": 20
     },
     {
-        "title" : "Animal Crossing: New Horizons",
-        "category" : ["nintendo"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "A nonlinear life simulator played in real-time. The player assumes the role of a customizable character who moves to a deserted island after purchasing a vacation package from Tom Nook, a raccoon character who is a staple of the series.",
-        "id" : 21
+      "title": "Animal Crossing: New Horizons",
+      "category": [
+        "nintendo"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "A nonlinear life simulator played in real-time. The player assumes the role of a customizable character who moves to a deserted island after purchasing a vacation package from Tom Nook, a raccoon character who is a staple of the series.",
+      "id": 21
     },
     {
-        "title" : "Mario Kart 8 Deluxe",
-        "category" : ["nintendo"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Mario Kart 8 Deluxe is a racing game for the Nintendo Switch, and the first Mario game overall for the console. It is a port in the Mario Kart series, being a port of Mario Kart 8 from the Wii U. It has additional features such as several new characters and features more options for Battle Mode.",
-        "id" : 22
+      "title": "Mario Kart 8 Deluxe",
+      "category": [
+        "nintendo"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Mario Kart 8 Deluxe is a racing game for the Nintendo Switch, and the first Mario game overall for the console. It is a port in the Mario Kart series, being a port of Mario Kart 8 from the Wii U. It has additional features such as several new characters and features more options for Battle Mode.",
+      "id": 22
     },
     {
-        "title" : "Pokemon Shield",
-        "category" : ["nintendo"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pokémon known as Dynamax Pokémon.",
-        "id" : 23
+      "title": "Pokemon Shield",
+      "category": [
+        "nintendo"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Explore the Wild Area, a vast expanse of land where the player can freely control the camera. Team up with three other players locally or online in the new multiplayer co-op Max Raid Battles* in which players will face off against gigantic and super-strong Pokémon known as Dynamax Pokémon.",
+      "id": 23
     },
     {
-        "title" : "Monster Hunter Rise",
-        "category" : ["nintendo"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It's been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.",
-        "id" : 24
+      "title": "Monster Hunter Rise",
+      "category": [
+        "nintendo"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Set in the ninja-inspired land of Kamura Village, explore lush ecosystems and battle fearsome monsters to become the ultimate hunter. It's been half a century since the last calamity struck, but a terrifying new monster has reared its head and threatens to plunge the land into chaos once again.",
+      "id": 24
     },
     {
-        "title" : "Mass Effect 3",
-        "category" : ["pc", "xbox", "ps"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "The game is set within the Milky Way galaxy in 2186, where a galactic civilization is invaded by a highly advanced machine race of synthetic-organic starships known as Reapers. It concludes the story of Commander Shepard, an elite human soldier who is tasked with forging alliances between species for the war.",
-        "id" : 25
+      "title": "Mass Effect 3",
+      "category": [
+        "pc",
+        "xbox",
+        "ps"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "The game is set within the Milky Way galaxy in 2186, where a galactic civilization is invaded by a highly advanced machine race of synthetic-organic starships known as Reapers. It concludes the story of Commander Shepard, an elite human soldier who is tasked with forging alliances between species for the war.",
+      "id": 25
     },
     {
-        "title" : "Splatoon 2",
-        "category" : ["nintendo"],
-        "price" : 170000,
-        "img" : "",
-        "desc": "Splatoon 2 is a third-person shooter in which players control characters, known as Inklings and Octolings, and use colored ink as ammunition. ... A new mode, Salmon Run, allows up to four players to team up cooperatively to tackle waves of enemies called Salmonids and collect Boss Salmonids' eggs.",
-        "id" : 26
+      "title": "Splatoon 2",
+      "category": [
+        "nintendo"
+      ],
+      "price": 170000,
+      "img": "",
+      "desc": "Splatoon 2 is a third-person shooter in which players control characters, known as Inklings and Octolings, and use colored ink as ammunition. ... A new mode, Salmon Run, allows up to four players to team up cooperatively to tackle waves of enemies called Salmonids and collect Boss Salmonids' eggs.",
+      "id": 26
     },
     {
-        "title" : "Halo Reach",
-        "category" : ["xbox"],
-        "price" : 150000,
-        "img" : "",
-        "desc": "is a first-person shooter in which players predominantly experience gameplay from a first-person perspective; the game perspective switches to third-person when using certain weapons, equipments, vehicles and when a player dies",
-        "id" : 27
+      "title": "Halo Reach",
+      "category": [
+        "xbox"
+      ],
+      "price": 150000,
+      "img": "",
+      "desc": "is a first-person shooter in which players predominantly experience gameplay from a first-person perspective; the game perspective switches to third-person when using certain weapons, equipments, vehicles and when a player dies",
+      "id": 27
     },
     {
-        "title" : "The last of Us",
-        "category" : ["ps"],
-        "price" : 165000,
-        "img" : "",
-        "desc": "The Last of Us is an action-adventure survival horror game played from a third-person perspective. The player traverses post-apocalyptic environments such as towns, buildings, forests, and sewers to advance the story.",
-        "id" : 28
+      "title": "The last of Us",
+      "category": [
+        "ps"
+      ],
+      "price": 165000,
+      "img": "",
+      "desc": "The Last of Us is an action-adventure survival horror game played from a third-person perspective. The player traverses post-apocalyptic environments such as towns, buildings, forests, and sewers to advance the story.",
+      "id": 28
     },
     {
-        "title" : "The last of Us 2",
-        "category" : ["ps"],
-        "price" : 165000,
-        "img" : "",
-        "desc": "he Last of Us Part II is an action-adventure game played from a third-person perspective featuring elements of the survival horror genre. The player traverses post-apocalyptic environments such as buildings and forests to advance the story.",
-        "id" : 29
+      "title": "The last of Us 2",
+      "category": [
+        "ps"
+      ],
+      "price": 165000,
+      "img": "",
+      "desc": "he Last of Us Part II is an action-adventure game played from a third-person perspective featuring elements of the survival horror genre. The player traverses post-apocalyptic environments such as buildings and forests to advance the story.",
+      "id": 29
     },
     {
-        "title" : "Ghost of Tsushima",
-        "category" : ["xbox"],
-        "price" : 135000,
-        "img" : "",
-        "desc": "Ghost of Tsushima is an action-adventure stealth game played from a third-person perspective. The game features a large open world, with no visible waypoints on the HUD, which can be explored with or without guidance by wind direction. Players can travel to different parts of the island on horseback.",
-        "id" : 30
+      "title": "Ghost of Tsushima",
+      "category": [
+        "xbox"
+      ],
+      "price": 135000,
+      "img": "",
+      "desc": "Ghost of Tsushima is an action-adventure stealth game played from a third-person perspective. The game features a large open world, with no visible waypoints on the HUD, which can be explored with or without guidance by wind direction. Players can travel to different parts of the island on horseback.",
+      "id": 30
     },
     {
-        "title" : "Forza Horizon 4",
-        "category" : ["xbox"],
-        "price" : 180000,
-        "img" : "",
-        "desc": "Forza Horizon 4 is a racing video game set in an open world environment based in a fictionalised Great Britain",
-        "id" : 31
+      "title": "Forza Horizon 4",
+      "category": [
+        "xbox"
+      ],
+      "price": 180000,
+      "img": "",
+      "desc": "Forza Horizon 4 is a racing video game set in an open world environment based in a fictionalised Great Britain",
+      "id": 31
     }
-]
+  ]
 }
