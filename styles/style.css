@@ -1,0 +1,10 @@
+.navbar-menu a {
+    color: white
+}
+
+#footerText {
+    color: white
+}
+#footerText a:hover {
+    color: #e13968;
+}
