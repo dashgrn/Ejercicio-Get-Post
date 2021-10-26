@@ -14,12 +14,12 @@ const getGames = async () => {
     let res = await fetch('http://localhost:4000/games')
     let data = await res.json()
     let {games} = data
-    console.log(data)
+    // console.log(data)
     return data
 }
 
 const showAll = async (games) => {
-    console.log(games)
+    // console.log(games)
     games.forEach((game) => {
     //all games
       let div = document.createElement('div')
